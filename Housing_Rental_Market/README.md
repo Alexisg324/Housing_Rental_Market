@@ -26,7 +26,7 @@ pip install jupyter lab
 
 Installation Dependancies:
 
-(Images/2.png)
+(https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/2.png)
 
 ## Usage
 
@@ -36,8 +36,8 @@ The application will be able to provide the user with analytics, including visua
 
 Below is an example of what the analysis will look like for the user:
 
-(Images/3.png)
-(Images/4.png)
+(https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/3.png)
+(https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/4.png)
 
 ## Contributers
 
