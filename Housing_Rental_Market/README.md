@@ -39,6 +39,10 @@ Below is an example of what the analysis will look like for the user:
 ![](https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/3.png)
 ![](https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/4.png)
 
+This is an overall anaylsis of what the city average rental cost looks like:
+
+![](https://github.com/Alexisg324/Housing_Rental_Market/blob/main/Housing_Rental_Market/Images/Screen%20Shot%202022-06-12%20at%2011.20.30%20AM.png)
+
 ## Contributers
 
 Alexis Rose Garcia 
